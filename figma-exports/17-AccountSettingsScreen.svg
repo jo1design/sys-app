@@ -1,0 +1,90 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="390" height="844" fill="#111111"/>
+
+  <!-- Status bar -->
+  <text x="32" y="20" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">9:41</text>
+  <rect x="298" y="10" width="25" height="12" rx="3" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+  <rect x="300" y="12" width="18" height="8" rx="1.5" fill="#FFFFFF"/>
+  <rect x="324" y="14" width="2" height="5" rx="1" fill="#FFFFFF"/>
+
+  <!-- Header -->
+  <text x="24" y="62" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="22" fill="#FFFFFF">‹</text>
+  <text x="195" y="62" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paramètres</text>
+  <line x1="0" y1="76" x2="390" y2="76" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Profile card -->
+  <rect x="16" y="92" width="358" height="64" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="44" cy="124" r="26" fill="#252525" stroke="#C5FF00" stroke-width="1.5"/>
+  <text x="44" y="128" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">A</text>
+  <text x="82" y="118" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">AlexPadel</text>
+  <text x="82" y="136" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#555555">Club du Lac</text>
+  <text x="362" y="128" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+
+  <!-- Compte section -->
+  <text x="20" y="188" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="600" fill="#555555" letter-spacing="1">COMPTE</text>
+  <rect x="16" y="198" width="358" height="192" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Row 1 -->
+  <rect x="28" y="210" width="32" height="32" rx="8" fill="#252525"/>
+  <text x="44" y="230" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">👤</text>
+  <text x="72" y="232" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Modifier le profil</text>
+  <text x="362" y="232" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+  <line x1="72" y1="246" x2="362" y2="246" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Row 2 -->
+  <rect x="28" y="258" width="32" height="32" rx="8" fill="#252525"/>
+  <text x="44" y="278" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">@</text>
+  <text x="72" y="280" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Changer le pseudo</text>
+  <text x="362" y="280" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+  <line x1="72" y1="294" x2="362" y2="294" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Row 3 -->
+  <rect x="28" y="306" width="32" height="32" rx="8" fill="#252525"/>
+  <text x="44" y="326" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">✉</text>
+  <text x="72" y="328" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Email</text>
+  <text x="320" y="328" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#555555">alex@email.com</text>
+  <text x="362" y="328" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+  <line x1="72" y1="342" x2="362" y2="342" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Row 4 -->
+  <rect x="28" y="354" width="32" height="32" rx="8" fill="#252525"/>
+  <text x="44" y="374" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">🔒</text>
+  <text x="72" y="376" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Changer le mot de passe</text>
+  <text x="362" y="376" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+
+  <!-- Notifications section -->
+  <text x="20" y="420" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="600" fill="#555555" letter-spacing="1">NOTIFICATIONS</text>
+  <rect x="16" y="430" width="358" height="48" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <rect x="28" y="438" width="32" height="32" rx="8" fill="#252525"/>
+  <text x="44" y="458" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">🔔</text>
+  <text x="72" y="460" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Paramètres des notifications</text>
+  <text x="362" y="460" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+
+  <!-- Confidentialité section -->
+  <text x="20" y="506" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="600" fill="#555555" letter-spacing="1">CONFIDENTIALITÉ</text>
+  <rect x="16" y="516" width="358" height="48" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <rect x="28" y="524" width="32" height="32" rx="8" fill="#252525"/>
+  <text x="44" y="544" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">👁</text>
+  <text x="72" y="540" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Profil public</text>
+  <text x="72" y="556" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Tout le monde peut voir ton profil</text>
+  <!-- Toggle (on) -->
+  <rect x="326" y="532" width="42" height="26" rx="13" fill="#C5FF00"/>
+  <circle cx="354" cy="545" r="10" fill="#0A0A0A"/>
+
+  <!-- À propos section -->
+  <text x="20" y="596" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="600" fill="#555555" letter-spacing="1">À PROPOS</text>
+  <rect x="16" y="606" width="358" height="96" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="72" y="632" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Conditions d'utilisation</text>
+  <text x="362" y="632" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+  <line x1="72" y1="646" x2="362" y2="646" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="72" y="668" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#FFFFFF">Version</text>
+  <text x="310" y="668" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#555555">1.0.0 (V1)</text>
+  <text x="362" y="668" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+
+  <!-- Logout button -->
+  <rect x="16" y="722" width="358" height="48" rx="14" fill="rgba(255,59,48,0.06)" stroke="rgba(255,59,48,0.19)" stroke-width="1"/>
+  <text x="195" y="752" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FF3B30" text-anchor="middle">🚪 Se déconnecter</text>
+
+  <!-- Version text -->
+  <text x="195" y="796" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555" text-anchor="middle">Stream Your Sport · V1 · Barcelone 2026</text>
+
+  <!-- Bottom indicator -->
+  <rect x="147" y="818" width="96" height="5" rx="2.5" fill="#FFFFFF" opacity="0.2"/>
+</svg>

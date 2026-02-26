@@ -1,0 +1,94 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="390" height="844" fill="#111111"/>
+
+  <!-- Status bar -->
+  <text x="32" y="20" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">9:41</text>
+  <rect x="298" y="10" width="25" height="12" rx="3" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+  <rect x="300" y="12" width="18" height="8" rx="1.5" fill="#FFFFFF"/>
+  <rect x="324" y="14" width="2" height="5" rx="1" fill="#FFFFFF"/>
+
+  <!-- Header -->
+  <text x="24" y="62" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="22" fill="#FFFFFF">‹</text>
+  <text x="195" y="62" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF" text-anchor="middle">Notifications</text>
+  <line x1="0" y1="76" x2="390" y2="76" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Global toggle card -->
+  <rect x="16" y="92" width="358" height="64" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="48" cy="124" r="22" fill="rgba(197,255,0,0.15)"/>
+  <text x="48" y="130" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="18" fill="#C5FF00" text-anchor="middle">🔔</text>
+  <text x="82" y="118" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Toutes les notifications</text>
+  <text x="82" y="136" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Activées</text>
+  <!-- Toggle (on) -->
+  <rect x="326" y="112" width="42" height="26" rx="13" fill="#C5FF00"/>
+  <circle cx="354" cy="125" r="10" fill="#0A0A0A"/>
+
+  <!-- Section title -->
+  <text x="20" y="188" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="600" fill="#555555" letter-spacing="1">PAR TYPE DE NOTIFICATION</text>
+
+  <!-- Notification types list -->
+  <rect x="16" y="200" width="358" height="336" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Type 1: Match en direct -->
+  <circle cx="40" cy="228" r="18" fill="rgba(255,59,48,0.13)"/>
+  <text x="40" y="233" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#FF3B30" text-anchor="middle">📡</text>
+  <text x="70" y="224" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="500" fill="#FFFFFF">Match en direct</text>
+  <text x="70" y="240" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Quand un membre suivi commence un match</text>
+  <rect x="326" y="216" width="42" height="26" rx="13" fill="#C5FF00"/>
+  <circle cx="354" cy="229" r="10" fill="#0A0A0A"/>
+  <line x1="70" y1="256" x2="362" y2="256" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Type 2: Moments forts -->
+  <circle cx="40" cy="284" r="18" fill="rgba(197,255,0,0.13)"/>
+  <text x="40" y="289" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#C5FF00" text-anchor="middle">⭐</text>
+  <text x="70" y="280" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="500" fill="#FFFFFF">Moments forts</text>
+  <text x="70" y="296" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Quand un moment fort est marqué</text>
+  <rect x="326" y="272" width="42" height="26" rx="13" fill="#C5FF00"/>
+  <circle cx="354" cy="285" r="10" fill="#0A0A0A"/>
+  <line x1="70" y1="312" x2="362" y2="312" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Type 3: Replay disponible -->
+  <circle cx="40" cy="340" r="18" fill="rgba(154,154,154,0.13)"/>
+  <text x="40" y="345" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">▶</text>
+  <text x="70" y="336" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="500" fill="#FFFFFF">Replay disponible</text>
+  <text x="70" y="352" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Quand ton match est disponible en replay</text>
+  <rect x="326" y="328" width="42" height="26" rx="13" fill="#C5FF00"/>
+  <circle cx="354" cy="341" r="10" fill="#0A0A0A"/>
+  <line x1="70" y1="368" x2="362" y2="368" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Type 4: Likes -->
+  <circle cx="40" cy="396" r="18" fill="rgba(255,55,95,0.13)"/>
+  <text x="40" y="401" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#FF375F" text-anchor="middle">❤</text>
+  <text x="70" y="392" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="500" fill="#FFFFFF">Likes</text>
+  <text x="70" y="408" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Quand quelqu'un like ton post</text>
+  <rect x="326" y="384" width="42" height="26" rx="13" fill="#C5FF00"/>
+  <circle cx="354" cy="397" r="10" fill="#0A0A0A"/>
+  <line x1="70" y1="424" x2="362" y2="424" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Type 5: Commentaires -->
+  <circle cx="40" cy="452" r="18" fill="rgba(100,210,255,0.13)"/>
+  <text x="40" y="457" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#64D2FF" text-anchor="middle">💬</text>
+  <text x="70" y="448" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="500" fill="#FFFFFF">Commentaires</text>
+  <text x="70" y="464" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Quand quelqu'un commente ton post</text>
+  <rect x="326" y="440" width="42" height="26" rx="13" fill="#C5FF00"/>
+  <circle cx="354" cy="453" r="10" fill="#0A0A0A"/>
+  <line x1="70" y1="480" x2="362" y2="480" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Type 6: Nouveaux followers (off) -->
+  <circle cx="40" cy="508" r="18" fill="rgba(94,92,230,0.13)"/>
+  <text x="40" y="513" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#5E5CE6" text-anchor="middle">👤</text>
+  <text x="70" y="504" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="500" fill="#555555">Nouveaux followers</text>
+  <text x="70" y="520" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Quand quelqu'un commence à te suivre</text>
+  <rect x="326" y="496" width="42" height="26" rx="13" fill="#252525"/>
+  <circle cx="340" cy="509" r="10" fill="#555555"/>
+
+  <!-- Info box -->
+  <rect x="16" y="560" width="358" height="64" rx="10" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="38" y="586" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="16" fill="#555555">ⓘ</text>
+  <text x="58" y="582" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">Les notifications sont envoyées via Firebase</text>
+  <text x="58" y="598" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">(Android) et APNs (iOS). Tu peux aussi gérer</text>
+  <text x="58" y="614" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">les permissions dans les paramètres du tél.</text>
+
+  <!-- Bottom indicator -->
+  <rect x="147" y="818" width="96" height="5" rx="2.5" fill="#FFFFFF" opacity="0.2"/>
+</svg>

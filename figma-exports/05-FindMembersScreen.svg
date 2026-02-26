@@ -1,0 +1,90 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="390" height="844" fill="#111111"/>
+
+  <!-- Status bar -->
+  <text x="32" y="20" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">9:41</text>
+  <rect x="298" y="10" width="25" height="12" rx="3" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+  <rect x="300" y="12" width="18" height="8" rx="1.5" fill="#FFFFFF"/>
+  <rect x="324" y="14" width="2" height="5" rx="1" fill="#FFFFFF"/>
+
+  <!-- Progress dots (3 of 4 active) -->
+  <rect x="24" y="60" width="81" height="4" rx="2" fill="#C5FF00"/>
+  <rect x="111" y="60" width="81" height="4" rx="2" fill="#C5FF00"/>
+  <rect x="198" y="60" width="81" height="4" rx="2" fill="#C5FF00"/>
+  <rect x="285" y="60" width="81" height="4" rx="2" fill="#252525"/>
+
+  <!-- Step label -->
+  <text x="24" y="100" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" font-weight="600" fill="#C5FF00" letter-spacing="1">ÉTAPE 2 SUR 3</text>
+
+  <!-- Title -->
+  <text x="24" y="132" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="30" font-weight="800" fill="#FFFFFF">Suis tes amis</text>
+  <text x="24" y="158" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#9A9A9A">Retrouve les membres de ton club et suis</text>
+  <text x="24" y="176" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#9A9A9A">leurs matchs en direct.</text>
+
+  <!-- Filter chips -->
+  <rect x="24" y="200" width="80" height="30" rx="15" fill="rgba(197,255,0,0.15)" stroke="#C5FF00" stroke-width="1"/>
+  <text x="64" y="220" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" font-weight="600" fill="#C5FF00" text-anchor="middle">Mon club</text>
+  <rect x="112" y="200" width="52" height="30" rx="15" fill="#252525" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="138" y="220" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#9A9A9A" text-anchor="middle">Tous</text>
+  <rect x="172" y="200" width="100" height="30" rx="15" fill="#252525" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="222" y="220" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#9A9A9A" text-anchor="middle">🔍 Rechercher</text>
+
+  <!-- Member card 1 (followed) -->
+  <rect x="24" y="248" width="342" height="76" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="286" r="24" fill="#252525"/>
+  <text x="60" y="290" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">S</text>
+  <text x="96" y="276" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">SofiaM</text>
+  <text x="96" y="292" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">📍 Club du Lac</text>
+  <rect x="96" y="298" width="44" height="18" rx="9" fill="rgba(197,255,0,0.15)"/>
+  <text x="118" y="310" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="9" font-weight="600" fill="#C5FF00" text-anchor="middle">Padel</text>
+  <text x="310" y="274" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">24 matchs</text>
+  <rect x="284" y="282" width="72" height="28" rx="14" fill="transparent" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="320" y="300" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" font-weight="700" fill="#9A9A9A" text-anchor="middle">✓ Suivi</text>
+
+  <!-- Member card 2 (followed) -->
+  <rect x="24" y="332" width="342" height="76" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="370" r="24" fill="#252525"/>
+  <text x="60" y="374" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">M</text>
+  <text x="96" y="360" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">MaxBouleau</text>
+  <text x="96" y="376" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">📍 Tennis Club Paris</text>
+  <rect x="96" y="382" width="44" height="18" rx="9" fill="rgba(76,175,80,0.15)"/>
+  <text x="118" y="394" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="9" font-weight="600" fill="#4CAF50" text-anchor="middle">Tennis</text>
+  <text x="310" y="358" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">12 matchs</text>
+  <rect x="284" y="366" width="72" height="28" rx="14" fill="transparent" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="320" y="384" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" font-weight="700" fill="#9A9A9A" text-anchor="middle">✓ Suivi</text>
+
+  <!-- Member card 3 (not followed) -->
+  <rect x="24" y="416" width="342" height="76" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="454" r="24" fill="#252525"/>
+  <text x="60" y="458" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">R</text>
+  <text x="96" y="444" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">RaphaelDupont</text>
+  <text x="96" y="460" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">📍 Squash City</text>
+  <rect x="96" y="466" width="48" height="18" rx="9" fill="rgba(255,152,0,0.15)"/>
+  <text x="120" y="478" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="9" font-weight="600" fill="#FF9800" text-anchor="middle">Squash</text>
+  <text x="310" y="442" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">8 matchs</text>
+  <rect x="284" y="450" width="72" height="28" rx="14" fill="#C5FF00"/>
+  <text x="320" y="468" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" font-weight="700" fill="#0A0A0A" text-anchor="middle">Suivre</text>
+
+  <!-- Member card 4 -->
+  <rect x="24" y="500" width="342" height="76" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="538" r="24" fill="#252525"/>
+  <text x="60" y="542" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#9A9A9A" text-anchor="middle">L</text>
+  <text x="96" y="528" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">LucasPadel</text>
+  <text x="96" y="544" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">📍 Club du Lac</text>
+  <rect x="96" y="550" width="44" height="18" rx="9" fill="rgba(197,255,0,0.15)"/>
+  <text x="118" y="562" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="9" font-weight="600" fill="#C5FF00" text-anchor="middle">Padel</text>
+  <text x="310" y="526" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">31 matchs</text>
+  <rect x="284" y="534" width="72" height="28" rx="14" fill="transparent" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="320" y="552" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" font-weight="700" fill="#9A9A9A" text-anchor="middle">✓ Suivi</text>
+
+  <!-- Continue button -->
+  <rect x="24" y="620" width="342" height="56" rx="16" fill="#C5FF00"/>
+  <text x="195" y="654" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="17" font-weight="800" fill="#0A0A0A" text-anchor="middle">Continuer (3 suivis)</text>
+
+  <!-- Skip link -->
+  <text x="195" y="704" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" fill="#555555" text-anchor="middle">Passer cette étape</text>
+
+  <!-- Bottom indicator -->
+  <rect x="147" y="818" width="96" height="5" rx="2.5" fill="#FFFFFF" opacity="0.2"/>
+</svg>

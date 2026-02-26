@@ -1,0 +1,105 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="390" height="844" fill="#111111"/>
+
+  <!-- Status bar -->
+  <text x="32" y="20" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">9:41</text>
+  <rect x="298" y="10" width="25" height="12" rx="3" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+  <rect x="300" y="12" width="18" height="8" rx="1.5" fill="#FFFFFF"/>
+  <rect x="324" y="14" width="2" height="5" rx="1" fill="#FFFFFF"/>
+
+  <!-- Header -->
+  <text x="16" y="62" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF">Mes Matchs</text>
+  <text x="362" y="62" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="20" fill="#9A9A9A">⚙</text>
+  <line x1="0" y1="76" x2="390" y2="76" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Stats row -->
+  <rect x="16" y="88" width="358" height="70" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Stat: Matchs joués -->
+  <text x="75" y="114" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">5</text>
+  <text x="75" y="132" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555" text-anchor="middle">Matchs joués</text>
+  <!-- Divider -->
+  <line x1="135" y1="100" x2="135" y2="148" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Stat: Victoires -->
+  <text x="195" y="114" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="195" y="132" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555" text-anchor="middle">Victoires</text>
+  <!-- Divider -->
+  <line x1="255" y1="100" x2="255" y2="148" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Stat: Win rate -->
+  <text x="315" y="114" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="24" font-weight="800" fill="#C5FF00" text-anchor="middle">60%</text>
+  <text x="315" y="132" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555" text-anchor="middle">Win rate</text>
+
+  <!-- Filter chips -->
+  <rect x="16" y="172" width="46" height="28" rx="14" fill="rgba(197,255,0,0.15)" stroke="#C5FF00" stroke-width="1"/>
+  <text x="39" y="190" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" font-weight="600" fill="#C5FF00" text-anchor="middle">Tous</text>
+  <rect x="70" y="172" width="68" height="28" rx="14" fill="#252525" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="104" y="190" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#9A9A9A" text-anchor="middle">🏓 Padel</text>
+  <rect x="146" y="172" width="72" height="28" rx="14" fill="#252525" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="182" y="190" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#9A9A9A" text-anchor="middle">🎾 Tennis</text>
+  <rect x="226" y="172" width="74" height="28" rx="14" fill="#252525" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="263" y="190" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="13" fill="#9A9A9A" text-anchor="middle">🟡 Squash</text>
+
+  <!-- Match card 1 (Win) -->
+  <rect x="16" y="216" width="358" height="120" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Green accent for win -->
+  <rect x="16" y="216" width="4" height="120" rx="2" fill="#C5FF00"/>
+  <!-- Top row -->
+  <rect x="32" y="228" width="42" height="18" rx="9" fill="rgba(197,255,0,0.15)"/>
+  <text x="53" y="240" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="10" font-weight="600" fill="#C5FF00" text-anchor="middle">Padel</text>
+  <text x="360" y="240" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555" text-anchor="end">25 fév.</text>
+  <!-- Score row -->
+  <text x="32" y="268" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="20" font-weight="800" fill="#C5FF00">6-4 7-5</text>
+  <rect x="130" y="254" width="56" height="20" rx="4" fill="rgba(197,255,0,0.15)"/>
+  <text x="158" y="268" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="700" fill="#C5FF00" text-anchor="middle">Victoire</text>
+  <!-- Players -->
+  <text x="32" y="296" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#9A9A9A">SofiaM &amp; AlexPadel vs MaxBouleau &amp; LucasPadel</text>
+  <!-- Bottom row -->
+  <text x="32" y="320" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">📍 Club du Lac</text>
+  <text x="140" y="320" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">⏱ 1h12</text>
+  <text x="210" y="320" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#C5FF00">⭐ 3</text>
+  <text x="362" y="320" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+
+  <!-- Match card 2 (Loss) -->
+  <rect x="16" y="344" width="358" height="120" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Gray accent for loss -->
+  <rect x="16" y="344" width="4" height="120" rx="2" fill="#252525"/>
+  <rect x="32" y="356" width="48" height="18" rx="9" fill="rgba(76,175,80,0.15)"/>
+  <text x="56" y="368" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="10" font-weight="600" fill="#4CAF50" text-anchor="middle">Tennis</text>
+  <text x="360" y="368" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555" text-anchor="end">24 fév.</text>
+  <text x="32" y="396" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">3-6 6-4 5-7</text>
+  <rect x="170" y="382" width="50" height="20" rx="4" fill="rgba(255,255,255,0.05)"/>
+  <text x="195" y="396" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="700" fill="#555555" text-anchor="middle">Défaite</text>
+  <text x="32" y="424" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#9A9A9A">AlexPadel vs RaphaelDupont</text>
+  <text x="32" y="448" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">📍 Tennis Club Paris</text>
+  <text x="170" y="448" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">⏱ 2h05</text>
+  <text x="362" y="448" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+
+  <!-- Match card 3 (Win) -->
+  <rect x="16" y="472" width="358" height="120" rx="14" fill="#1A1A1A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <rect x="16" y="472" width="4" height="120" rx="2" fill="#C5FF00"/>
+  <rect x="32" y="484" width="48" height="18" rx="9" fill="rgba(255,152,0,0.15)"/>
+  <text x="56" y="496" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="10" font-weight="600" fill="#FF9800" text-anchor="middle">Squash</text>
+  <text x="360" y="496" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555" text-anchor="end">22 fév.</text>
+  <text x="32" y="524" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="20" font-weight="800" fill="#C5FF00">11-7 11-5 11-9</text>
+  <rect x="210" y="510" width="56" height="20" rx="4" fill="rgba(197,255,0,0.15)"/>
+  <text x="238" y="524" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" font-weight="700" fill="#C5FF00" text-anchor="middle">Victoire</text>
+  <text x="32" y="552" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#9A9A9A">AlexPadel vs RaphaelDupont</text>
+  <text x="32" y="576" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">📍 Squash City</text>
+  <text x="140" y="576" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#555555">⏱ 48min</text>
+  <text x="210" y="576" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="11" fill="#C5FF00">⭐ 2</text>
+  <text x="362" y="576" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="14" fill="#555555">›</text>
+
+  <!-- Bottom tab bar -->
+  <rect x="0" y="780" width="390" height="64" fill="#111111"/>
+  <line x1="0" y1="780" x2="390" y2="780" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <text x="48" y="808" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="22" fill="#555555" text-anchor="middle">🏠</text>
+  <text x="48" y="824" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="10" fill="#555555" text-anchor="middle">Feed</text>
+  <text x="146" y="808" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="22" fill="#C5FF00" text-anchor="middle">🎾</text>
+  <text x="146" y="824" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="10" font-weight="600" fill="#C5FF00" text-anchor="middle">Matchs</text>
+  <text x="244" y="808" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="22" fill="#555555" text-anchor="middle">🔔</text>
+  <text x="244" y="824" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="10" fill="#555555" text-anchor="middle">Notifs</text>
+  <circle cx="256" cy="796" r="8" fill="#FF3B30"/>
+  <text x="256" y="800" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="342" y="808" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="22" fill="#555555" text-anchor="middle">👤</text>
+  <text x="342" y="824" font-family="SF Pro Display, -apple-system, system-ui, sans-serif" font-size="10" fill="#555555" text-anchor="middle">Profil</text>
+</svg>
